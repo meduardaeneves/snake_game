@@ -2,8 +2,9 @@
 
 Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/portfolio/games/snake_game/)
 
-<img src="files/snake_game_playing.png" width="400">
-<!-- ![The Snake Game Image](files/snake_game_playing.png) -->
+<p align="center">
+  <img src="files/snake_game_playing.png" width="300">
+</p>
 
 This is a snake game app. Your goal is to move the snake using the keyboard arrows in order to reach the red element. 
   - Each time you susced, you gain a point and the snake increases it's size.
